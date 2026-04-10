@@ -1,3 +1,3 @@
-# Edites repo 
+# second edit
 
-add a note
+hello word
